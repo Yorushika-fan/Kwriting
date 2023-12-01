@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApifoxUploaderProjectSetting">
+    <option name="apifoxAccessToken" value="APS-IzxyUrlSkO78HrrYSEeWKATojynQ3bF6" />
+    <option name="apifoxApiOverwriteMode" value="智能合并" />
+    <option name="apifoxProjectIds">
+      <array>
+        <option value="ruoyi-kwriting:3589170,博客后台管理" />
+        <option value="ruoyi-generator:3589170" />
+        <option value="ruoyi-Kwriting:3589170" />
+        <option value="ruoyi-quartz:3589170" />
+        <option value="ruoyi-admin:3589170" />
+        <option value="Kwriting-admin 3620839,博客后台" />
+        <option value="Kwriting-admin:3620839" />
+      </array>
+    </option>
+    <option name="yapiTokens" value="" />
+  </component>
+</project>
